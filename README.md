@@ -5,4 +5,3 @@
 # Dictionary
 * https://jisho.org/
 * https://www.casio.com/jp/exword/
-* 
