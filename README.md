@@ -5,3 +5,6 @@
 # Dictionary
 * https://jisho.org/
 * https://www.casio.com/jp/exword/
+# Grammer
+## Genki
+* https://www.youtube.com/watch?v=GaQBL4XHuSo
