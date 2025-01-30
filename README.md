@@ -8,3 +8,5 @@
 # Grammer
 ## Genki
 * https://www.youtube.com/watch?v=GaQBL4XHuSo
+# る-verbs
+* 盛る
