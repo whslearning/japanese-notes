@@ -9,4 +9,5 @@
 ## Genki
 * https://www.youtube.com/watch?v=GaQBL4XHuSo
 # る-verbs
-* 盛る
+* <ruby>盛<rp>【</rp><rt>も</rt><rp>】</rp>る<rt></rt></ruby>
+* <ruby>上<rp>【</rp><rt>あ</rt><rp>】</rp>がる<rt></rt></ruby>
