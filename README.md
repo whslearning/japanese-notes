@@ -15,3 +15,6 @@
 # う-verbs
 * <ruby>帰<rp>【</rp><rt>かえ</rt><rp>】</rp>る<rt></rt></ruby>
 # ている
+# そんな
+* そのような
+* https://www.tofugu.com/japanese-grammar/konna-sonna-anna-donna/
