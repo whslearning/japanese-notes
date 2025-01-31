@@ -10,4 +10,5 @@
 * https://www.youtube.com/watch?v=GaQBL4XHuSo
 # る-verbs
 * <ruby>盛<rp>【</rp><rt>も</rt><rp>】</rp>る<rt></rt></ruby>
+* <ruby>帰<rp>【</rp><rt>かえ</rt><rp>】</rp>る<rt></rt></ruby>
 * <ruby>上<rp>【</rp><rt>あ</rt><rp>】</rp>がる<rt></rt></ruby>
