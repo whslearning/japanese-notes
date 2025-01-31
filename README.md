@@ -11,5 +11,6 @@
 # る-verbs
 * <ruby>盛<rp>【</rp><rt>も</rt><rp>】</rp>る<rt></rt></ruby>
 * <ruby>上<rp>【</rp><rt>あ</rt><rp>】</rp>がる<rt></rt></ruby>
+* <ruby>考<rp>【</rp><rt>かんが</rt><rp>】</rp>える<rt></rt></ruby>
 # う-verbs
 * <ruby>帰<rp>【</rp><rt>かえ</rt><rp>】</rp>る<rt></rt></ruby>
