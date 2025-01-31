@@ -14,3 +14,4 @@
 * <ruby>考<rp>【</rp><rt>かんが</rt><rp>】</rp>える<rt></rt></ruby>
 # う-verbs
 * <ruby>帰<rp>【</rp><rt>かえ</rt><rp>】</rp>る<rt></rt></ruby>
+# ている
