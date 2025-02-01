@@ -20,4 +20,3 @@
 * https://www.tofugu.com/japanese-grammar/konna-sonna-anna-donna/
 # た
 * https://www.youtube.com/watch?v=h5e6q684HAw
-* 
