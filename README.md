@@ -32,3 +32,10 @@
 * ~くないです
 * いいです/よいです
 * よくないです
+# 3. な-adjective
+* ~です
+* ~じゃありません/~では(wa)ありません
+* Nounです
+* Nounじゃありません
+* Nounのnoun
+* Adjectiveなnoun
