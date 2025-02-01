@@ -39,3 +39,8 @@
 * Nounじゃありません
 * Nounのnoun
 * Adjectiveなnoun
+# 4. Noun
+* ~です
+* ~じゃありません
+* Subjectは(wa)Yです
+* SubjectはYじゃありません
