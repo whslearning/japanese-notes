@@ -22,3 +22,8 @@
 * https://www.youtube.com/watch?v=h5e6q684HAw
 # N5
 * https://www.youtube.com/watch?v=cygGNONmB9U&list=PLynCeSdpMqxC9_wMwKGXOc7A5CCAH3fPK
+## 1 Verb
+* ~ます
+* ~ません
+* ~る
+* ~ない
