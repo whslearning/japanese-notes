@@ -44,3 +44,5 @@
 * ~じゃありません
 * Subjectは(wa)Yです
 * SubjectはYじゃありません
+* Subjectは(wa)Y(だ)
+* SubjectはYじゃない
