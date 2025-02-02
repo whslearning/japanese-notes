@@ -1,7 +1,8 @@
 # Hiragana
 * https://www.youtube.com/watch?v=tvUmVk4Qe8Y
-* https://ankiweb.net/shared/info/2183294427
 * https://en.wikipedia.org/wiki/Hiragana
+# Anki
+* https://ankiweb.net/shared/info/2183294427 
 # Dictionary
 * https://jisho.org/
 * https://www.casio.com/jp/exword/
