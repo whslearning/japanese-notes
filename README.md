@@ -1,6 +1,8 @@
 # Hiragana
 * https://www.youtube.com/watch?v=tvUmVk4Qe8Y
 * https://en.wikipedia.org/wiki/Hiragana
+# Number
+* https://www.youtube.com/watch?v=eLAEsXhR2Zw
 # Anki
 * https://ankiweb.net/shared/info/2183294427 
 # Dictionary
