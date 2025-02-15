@@ -4,7 +4,8 @@
 # Number
 * https://www.youtube.com/watch?v=eLAEsXhR2Zw
 # Anki
-* https://ankiweb.net/shared/info/2183294427 
+* https://ankiweb.net/shared/info/2183294427
+* https://ankiweb.net/shared/info/1196762551
 # Dictionary
 * https://jisho.org/
 * https://www.casio.com/jp/exword/
