@@ -79,3 +79,5 @@
 # ~ている (ています)
 * Te-form: する -> して
 * Example: 勉強しています
+# ~んです/~のです
+* https://www.youtube.com/watch?v=GPqGAOa1_kQ
