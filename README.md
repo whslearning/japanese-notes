@@ -81,3 +81,4 @@
 * Example: 勉強しています
 # ~んです/~のです
 * https://www.youtube.com/watch?v=GPqGAOa1_kQ
+* https://www.youtube.com/watch?v=lt1NUVOn_Kc
