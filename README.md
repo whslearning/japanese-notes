@@ -83,3 +83,5 @@
 * https://www.youtube.com/watch?v=GPqGAOa1_kQ
 * https://www.youtube.com/watch?v=lt1NUVOn_Kc
 # ~くなかった
+# ~なさい
+* https://www.sigure.tw/learn-japanese/grammar/n4/39
