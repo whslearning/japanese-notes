@@ -5,6 +5,8 @@
 * https://www.youtube.com/watch?v=eLAEsXhR2Zw
 # Days of week
 * https://www.youtube.com/watch?v=R5Sv7EqeZwQ
+# Immersion
+* https://www.youtube.com/@Atashinchi
 # Anki
 * https://ankiweb.net/shared/info/2183294427
 * https://ankiweb.net/shared/info/1196762551
