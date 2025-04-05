@@ -14,6 +14,8 @@
 # Dictionary
 * https://jisho.org/
 * https://www.casio.com/jp/exword/
+# い-adjective
+* https://www.youtube.com/watch?v=lz0PIWgot8Y
 # Grammer
 ## Genki
 * https://www.youtube.com/watch?v=GaQBL4XHuSo
