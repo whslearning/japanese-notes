@@ -7,6 +7,7 @@
 * https://www.youtube.com/watch?v=R5Sv7EqeZwQ
 # Immersion
 * https://www.youtube.com/@Atashinchi
+* https://www.youtube.com/watch?v=a-0Zqh9nggU
 # Anki
 * https://ankiweb.net/shared/info/2183294427
 * https://ankiweb.net/shared/info/1196762551
