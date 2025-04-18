@@ -16,6 +16,10 @@
 * https://www.casio.com/jp/exword/
 # い-adjective
 * https://www.youtube.com/watch?v=lz0PIWgot8Y
+# Verbs
+* https://www.youtube.com/watch?v=bs1vNDmq-UA
+* https://www.youtube.com/watch?v=-FepFYcCNu4
+* https://www.youtube.com/watch?v=yzHqn3E5SdI
 # Grammer
 ## Genki
 * https://www.youtube.com/watch?v=GaQBL4XHuSo
