@@ -18,8 +18,10 @@
 * https://www.youtube.com/watch?v=lz0PIWgot8Y
 # Verbs
 * https://www.youtube.com/watch?v=bs1vNDmq-UA (dictionary form)
-* https://www.youtube.com/watch?v=-FepFYcCNu4 (masu form)
+* https://www.youtube.com/watch?v=-FepFYcCNu4 (masu-form)
 * https://www.youtube.com/watch?v=yzHqn3E5SdI (negative form)
+* https://www.youtube.com/watch?v=j0WXxCl7LZw (past tense)
+* https://www.youtube.com/watch?v=UaLRpiulH-Y (te-form)
 # Grammer
 ## Genki
 * https://www.youtube.com/watch?v=GaQBL4XHuSo
