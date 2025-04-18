@@ -8,6 +8,8 @@
 # Immersion
 * https://www.youtube.com/@Atashinchi
 * https://www.youtube.com/watch?v=a-0Zqh9nggU
+# News
+* https://www3.nhk.or.jp/news/easy/
 # Anki
 * https://ankiweb.net/shared/info/2183294427
 * https://ankiweb.net/shared/info/1196762551
